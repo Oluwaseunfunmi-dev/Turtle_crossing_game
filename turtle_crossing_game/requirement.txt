@@ -1,0 +1,2 @@
+# This game uses only Python's built-in modules (turtle, time)
+# No additional packages are required
